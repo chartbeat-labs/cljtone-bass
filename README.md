@@ -1,4 +1,4 @@
-# charttone-bass
+# cljtone-bass
 
 A library for a sampled bass-guitar in overtone.
 
