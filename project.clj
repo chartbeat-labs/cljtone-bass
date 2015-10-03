@@ -1,4 +1,4 @@
-(defproject cljtone-bass "0.1.0-SNAPSHOT"
+(defproject cljtone-bass "0.1.0"
   :description "Bass Sample library for overtone"
   :url "https://github.com/chartbeat-labs/"
   :license {:name "The MIT License (MIT)"
