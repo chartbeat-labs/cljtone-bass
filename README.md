@@ -8,7 +8,7 @@ I was playing with the jazz sample project in overtone and was extremely disappo
  
 Poking around the overtone source code I found the [other sampled instruments](https://github.com/overtone/overtone/blob/master/src/overtone/samples/piano.clj) in the overtone library and decided to find a good sampled bass guitar. The samples are recorded mezzo-forte and I think they're great. 
 
-I'd like to extend this into a library for adding other intstrument samples. It's actually very straight forward. the hardest part is finding the samples and sed/awk/sh foo to make a list of the freesound sample ids. 
+I'd like to extend this into a library for adding other instrument samples. It's actually very straight forward, the hardest part is finding the samples and sed/awk/sh foo to make a list of the freesound sample ids. 
 
 ## Usage
 
